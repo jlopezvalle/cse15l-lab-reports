@@ -1,4 +1,6 @@
-# Welcome to CSE15L
+#Lab Report 1
+
+## Welcome to CSE15L
 
 Congratulations on starting your journey in CSE15L! In this tutorial we are going to be helping you set up your workstations. What do I mean by workstations? Well… this is getting your ieng6 account up and running, installing Visual Studio (coding program), remotely connecting using Visual Studio, and lastly trying out some commands. This might feel like A LOT but do not worry! This blog post will go step-by-step with pictures to help guide you in this process. 
 
