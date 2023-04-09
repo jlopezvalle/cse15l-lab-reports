@@ -40,6 +40,7 @@ Now let's get started with setting up your ieng6 account first!
 
 
 ## Installing Visual Studio
+
 1. Click the link and it will direct you Visual Studio (Make sure to click either macOS or Windows)
 [https://code.visualstudio.com/docs/setup/mac](https://code.visualstudio.com/docs/setup/mac)
 
@@ -55,6 +56,7 @@ Now let's get started with setting up your ieng6 account first!
 
 
 ## Remotely Connecting
+
 1. Open Visual Studio and open a new terminal (see image below)
 ![Image](v1.png)
 
@@ -76,4 +78,21 @@ $ ssh cs15lsp23zz@ieng6.ucsd.edu
 
 ## Now let's try some commands
 
+1. Now let's try running some commands! Below are some commands that you can try out
+  * `cd`
+  * `ls`
+  * `pwd`
+  * `mkdir`
+  * `cp`
+  * `cd ~`
+  * `ls -lat`
+  * `ls -a`
+  * `ls <directory>` replace `<directory>` with `/home/linux/ieng6/cs15lsp23/cs15lsp23abc` make sure to also replace `abc` with a proper username
+  * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+  * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+2. In the image below are examples on how using certain commands will look like in the terminal.
+![Image]()
+
+## CONGRATULATION YOU FINISHED THIS TUTORIAL!
 
