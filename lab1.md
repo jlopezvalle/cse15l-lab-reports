@@ -37,6 +37,8 @@ Now let's get started with setting up your ieng6 account first!
 ![Image](9.png)
 
 
+
+
 ## Installing Visual Studio
 1. Click the link and it will direct you Visual Studio (Make sure to click either macOS or Windows)
 [https://code.visualstudio.com/docs/setup/mac](https://code.visualstudio.com/docs/setup/mac)
@@ -50,22 +52,26 @@ Now let's get started with setting up your ieng6 account first!
 4. Now move on to the next step with Remotely Connecting!
 
 
+
+
 ## Remotely Connecting
 1. Open Visual Studio and open a new terminal (see image below)
 ![Image](v1.png)
 
-2. In the terminal type the following:
+2. In the terminal type your cs15l username but replace the zz with your specific username informmation.
 ```
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
 ```
 
 4. A new line will pop-up with your user followed by your Password (see image below)
-![Image](v1.png)
+![Image](t1.png)
 
 5. **WARNING** the password you use is the password you change in the beginning of this tutorial. Also when you are trying to type in your password in the terminal **IT WILL NOT APPEAR**. This is for security purposes, if you type it incorrectly press enter for the password line to appear again. 
 
 6. When you press enter/return on your keyboard your terminal should look like the image below. Now you have successfully completed remote connecting! Let's try some commands to have more practice
-![Image](v1.png)
+![Image](v2.png)
+
+
 
 
 ## Now let's try some commands
