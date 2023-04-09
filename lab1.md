@@ -39,8 +39,6 @@ Now let's get started with setting up your ieng6 account first!
 ![Image](9.png)
 
 
-
-
 ## Installing Visual Studio
 
 1. Click the link and it will direct you Visual Studio (Make sure to click either macOS or Windows)
@@ -53,8 +51,6 @@ Now let's get started with setting up your ieng6 account first!
 ![Image](vs1.png)
 
 4. Now move on to the next step with Remotely Connecting!
-
-
 
 
 ## Remotely Connecting
@@ -74,8 +70,6 @@ $ ssh cs15lsp23zz@ieng6.ucsd.edu
 
 6. When you press enter/return on your keyboard your terminal should look like the image below. Now you have successfully completed remote connecting! Let's try some commands to have more practice
 ![Image](v2.png)
-
-
 
 
 ## Now let's try some commands
