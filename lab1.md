@@ -42,10 +42,10 @@ Now let's get started with setting up your ieng6 account first!
 [https://code.visualstudio.com/docs/setup/mac](https://code.visualstudio.com/docs/setup/mac)
 
 2. Please follow the proper directions for your specific device on installing Visual Studio (see image below)
-![Image]()
+![Image](vs3.png)
 
 3. To know that you successfully installed Visual Studio look at the image below
-![Image]()
+![Image](vs1.png)
 
 4. Now move on to the next step with Remotely Connecting!
 
