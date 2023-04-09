@@ -92,7 +92,8 @@ $ ssh cs15lsp23zz@ieng6.ucsd.edu
   * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 2. In the image below are examples on how using certain commands will look like in the terminal.
-![Image]()
+![Image](c1.png) 
+![Image](c2.png)
 
 ## CONGRATULATION YOU FINISHED THIS TUTORIAL!
 
