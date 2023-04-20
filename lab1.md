@@ -87,7 +87,15 @@ $ ssh cs15lsp23zz@ieng6.ucsd.edu
   * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
   * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-2. In the image below are examples on how using certain commands will look like in the terminal.
+2, Down below are a few descpriptions of some of the commands and what they do.
+  * `ls -la` : lists all the files and directories in the current working directory or a directory that the user specifies.
+  * `ls -l` : option uses a long listing format which adds information about the permissions, size, last modified, etc. associated with the file or directory.
+  * `ls -a` : lists directories starting with ',' (the hidden directories).
+
+For more detailed information abuot commands you cantry the command `ls -help` or `main ls` or check out the linux main pages online by clicking this link. 
+[https://man7.org/linux/man-pages/man1/ls.1.html](https://man7.org/linux/man-pages/man1/ls.1.html)
+
+3. In the image below are examples on how using certain commands will look like in the terminal.
 ![Image](c1.png) 
 ![Image](c2.png)
 
