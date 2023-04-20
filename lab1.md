@@ -87,7 +87,7 @@ $ ssh cs15lsp23zz@ieng6.ucsd.edu
   * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
   * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-2, Down below are a few descpriptions of some of the commands and what they do.
+2. Down below are a few descpriptions of some of the commands and what they do.
   * `ls -la` : lists all the files and directories in the current working directory or a directory that the user specifies.
   * `ls -l` : option uses a long listing format which adds information about the permissions, size, last modified, etc. associated with the file or directory.
   * `ls -a` : lists directories starting with ',' (the hidden directories).
