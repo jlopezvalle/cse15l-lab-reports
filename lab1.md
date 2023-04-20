@@ -99,5 +99,5 @@ For more detailed information abuot commands you cantry the command `ls -help` o
 ![Image](c1.png) 
 ![Image](c2.png)
 
-## CONGRATULATION YOU FINISHED THIS TUTORIAL!
+## CONGRATULATION YOU FINISHED THIS TUTORIAL! 
 
