@@ -8,11 +8,15 @@
 
 * `Which methods in your code are called?`
 
+The methods in my code that are called are url.getPath(). which is in my public String handleRequest(URI url) and my StringServer class. These portions of my code allows it to run succesfully in the terminal and open my web browser with the messages shown above.
 
 * `What are the relevant arguments to those methods, and the values of any relevant fields of the class?`
 
+The relevant arguments to those methods are the string, url, and parameters. These arguements allow for the proper path to be in place and have the correct output.
 
 * `How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.`
+
+The way in which these values of the relevant fields of the class change from this specific request is because it is able to concatinate from the previos even though a new message is being written. The fields are able to do this as shown in the code above. Each portion implementing the proper url to then split at a certain area to then add on from before. 
 
 
 ## Part 2
