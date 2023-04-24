@@ -18,7 +18,8 @@
 ## Part 2
 
 Choose one of the bugs from lab 3.
-The bug chosen from lab 3 is the 
+
+The bug chosen from lab 3 is the reverseInPlace method with the reversed() method. In order to fix the bug from the reverseInPlace() method you need to create a new temp values to switch the array elemnts until it reaches the middle elemnt in the array. While as for the reversed() method the code was changeing the old array and did not return the new one. To fix it you need to reassign the value and make sure the correct array is being returned rather than the incorrect one.
 
 ## Part 3
 
