@@ -8,7 +8,7 @@
 
 * `Which methods in your code are called?`
 
-The methods in my code that are called are url.getPath(). which is in my public String handleRequest(URI url) and my StringServer class. These portions of my code allows it to run succesfully in the terminal and open my web browser with the messages shown above.
+The methods in my code that are called are url.getPath(). which is in my public String handleRequest(URI url) and my StringServer class. These portions of my code allows it to run succesfully in the terminal and open my web browser with the messages shown above. 
 
 * `What are the relevant arguments to those methods, and the values of any relevant fields of the class?`
 
