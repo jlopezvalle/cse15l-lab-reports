@@ -4,8 +4,11 @@
 
 ## Part 1
 
-
-
+![Image](photo1.png)
+![Image](photo2.png)
+![Image](photo3.png)
+![Image](photo4.png)
+![Image](photo5.png)
 
 * `Which methods in your code are called?`
 
