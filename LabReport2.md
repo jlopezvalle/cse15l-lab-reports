@@ -39,12 +39,12 @@ NumberServer in week 2. When doing looking over the code provided from the lab i
 works. After intputting the follwoing commands into the terminal such as: 
 
 ```
-⤇ javac Server.java NumberServer.java 
-⤇ java NumberServer 4000
-Server Started! Visit http://localhost:4000
+⤇ javac Server.java StringServer.java 
+⤇ java NumberServer 2550
+Server Started! Visit http://localhost:2550
 ```
 
-I then opened up a browser in my computer and otyped the following `http://localhost:4000`. Ultimattely, I leanred how to run a server 
+I then opened up a browser in my computer and otyped the following `http://localhost:2550`. Ultimattely, I leanred how to run a server 
 which was really cool and super fun to do. It made me feel really smart :)
 
 
