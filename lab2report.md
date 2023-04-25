@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 2
 
 ## Welcome to CSE15L
 
