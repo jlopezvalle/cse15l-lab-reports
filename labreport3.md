@@ -3,7 +3,7 @@
 ## Researching Commands for `grep`
 
 **1. `grep -e`**  
-
+ 
 
 What it does : `grep -e` specifically prints one or more types of patterns that are seperated by newlines. 
 
