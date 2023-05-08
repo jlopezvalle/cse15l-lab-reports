@@ -2,7 +2,8 @@
 
 ## Researching Commands for `grep`
 
-1. `grep -e`
+**1. `grep -e`**
+
 What it does : `grep -e` specifically prints one or more types of patterns that are seperated by newlines. 
 
   * Example 1: 
@@ -10,7 +11,8 @@ What it does : `grep -e` specifically prints one or more types of patterns that 
   * Example 2:
       ![Image](grep2.png)
 
-2. `grep -v`
+**2. `grep -v`**
+
 What it does : `grep -v` prints out all the lines in the pattern that are not the same (**DO NOT MATCH**).
 
   * Example 1: 
@@ -18,7 +20,8 @@ What it does : `grep -v` prints out all the lines in the pattern that are not th
   * Example 2:
       ![Image](grep4.png)
 
-3. `grep -c`
+**3. `grep -c`**
+
 What it does : `grep -c` specifically prints out only the lines of the count that match that pattern.
 
   * Example 1: 
@@ -27,7 +30,8 @@ What it does : `grep -c` specifically prints out only the lines of the count tha
   * Example 2:
       ![Image](grep6.png)
 
-4. `grep -n`
+**4. `grep -n`**
+
 What it does : `grep -n` prints out the matching lines and their matching line numbers.
 
   * Example 1: 
