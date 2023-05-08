@@ -18,7 +18,7 @@ What it does : `grep -e` specifically prints one or more types of patterns that 
 What it does : `grep -v` prints out all the lines in the pattern that are not the same (**DO NOT MATCH**).
 
   * Example 1: 
-      ![Image](grep3.png)
+      ![Image](grep3.png) 
   * Example 2:
       ![Image](grep4.png)
 
