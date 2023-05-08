@@ -37,6 +37,7 @@ What it does : `grep -n` prints out the matching lines and their matching line n
       ![Image](grep8.png)
 
 ## How were these commands found?
+
 When trying to find the differnt commands that can be used with `grep` you can do a web search or you can ask 
 the built-in command function on your terminal. In your terminal you type `man grep` which `man` is short for
 "manual". This `man grep` command will allow you to see all the information about that specific command. This 
