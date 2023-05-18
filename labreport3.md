@@ -15,7 +15,7 @@ What it does : `grep -e` specifically prints one or more types of patterns that 
 **2. `grep -v`**   
 
 
-What it does : `grep -v` prints out all the lines in the pattern that are not the same (**DO NOT MATCH**). This is useful to use when you can list all the files that do not have a specific word in which you want to avoid. A case can be seen with the word "Introdutcion" shown below.
+What it does : `grep -v` prints out all the lines in the pattern that are not the same (**DO NOT MATCH**). This is useful to use when you can list all the files that do not have a specific word in which you want to avoid. A case can be seen with the word `Introdutcion` shown below as it is not seen when using this command.
 
   * Example 1: 
       ![Image](grep3.png) 
@@ -25,7 +25,7 @@ What it does : `grep -v` prints out all the lines in the pattern that are not th
 **3. `grep -c`**  
 
 
-What it does : `grep -c` specifically prints out only the lines of the count that match that pattern. This is useful to use when trying to see how many lines in a file have a certain word or phrase. A case can be used when trying to see how many times this word is used and could possibly be replaced with other words if used too much.
+What it does : `grep -c` specifically prints out only the lines of the count that match that pattern. This is useful to use when trying to see how many lines in a file have a certain word or phrase. A case can be used when trying to see how many times `suggest` is used and could possibly be replaced with other words if used too much.
 
   * Example 1: 
       ![Image](grep5.png)
