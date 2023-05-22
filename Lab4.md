@@ -16,15 +16,15 @@
 ![Image](vim2.png)
 
 6. Next, run the tests, as they are to demonstrate that they failed.
-![Image](.png)
+![Image](vim3.png)
 
 7. Then, you will edit the code file to fix the failing test
-![Image](.png)
+![Image](vim4.png)
 
 8. After, run the tests, demonstrating that they now succeed
-![Image](.png)
+![Image](vim5.png)
 
 9. Finally, using commit and push it will result in the change to the Github account
-![Image](.png)
+![Image](vim6.png)
 
 
