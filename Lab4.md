@@ -10,10 +10,10 @@
 
 4. **GOOO!** Log into your ieng6. As shown below the following commands were used.
 `<enter>` `<tab>` `<esc>`
-![Image](.png)
+![Image](vim1.png)
 
 5. You will then clone your fork of the repository from the Github account
-![Image](.png)
+![Image](vim2.png)
 
 6. Next, run the tests, as they are to demonstrate that they failed.
 ![Image](.png)
