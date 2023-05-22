@@ -29,6 +29,7 @@ vim ListExamples.java
 8. After, run the tests, demonstrating that they now succeed                                                  
 ![Image](vim5.png)
 
-9. Finally, using commit and push it will result in the change to the Github account.
+9. Finally, using commit and push it will result in the change to the Github account.                                   
+(was having issues with this during lab and also after lab)
 
 
