@@ -21,7 +21,7 @@
 7. Then, you will edit the code file to fix the failing test
 ![Image](vim4.png)
 
-8. After, run the tests, demonstrating that they now succeed
+8. After, run the tests, demonstrating that they now succeed                                                  
 ![Image](vim5.png)
 
 9. Finally, using commit and push it will result in the change to the Github account
