@@ -9,7 +9,6 @@
 3. Then, start the timer for the task.
 
 4. **GOOO!** Log into your ieng6. As shown below the following commands were used.
-`<enter>` `<tab>` `<esc>`
 ![Image](vim1.png)
 
 5. You will then clone your fork of the repository from the Github account
@@ -18,13 +17,18 @@
 6. Next, run the tests, as they are to demonstrate that they failed.
 ![Image](vim3.png)
 
-7. Then, you will edit the code file to fix the failing test
+7. Then, you will edit the code file to fix the failing test. The following commands were used in this order to fix the code. 
+
+`42 j` → `11 l` → `x i 2` → `<esc>` → `:wq`
+vim ListExamples.java
+`index1 +=1;` → `llllll i` → `<bs>` → `2` → `<esc>` → :wq
+
+
 ![Image](vim4.png)
 
 8. After, run the tests, demonstrating that they now succeed                                                  
 ![Image](vim5.png)
 
-9. Finally, using commit and push it will result in the change to the Github account
-![Image](vim6.png)
+9. Finally, using commit and push it will result in the change to the Github account.
 
 
