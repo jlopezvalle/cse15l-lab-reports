@@ -2,7 +2,10 @@
 
 ## Part 1 : Debugging Scenario post on EdStem with student
 
-1.
+1. `
+
+Hello TA! I am having this error in my code and not sure how to fix it? I think it could have something to do with what i am writing in my terminal or maybe i dont have the correct file in my direcorty? I was hoping if you can help me with this issue? I have provided the scrrenshots of my code, java file and bash script in my EdStem post, thank you!`
+
 2.
 3.
 4.
