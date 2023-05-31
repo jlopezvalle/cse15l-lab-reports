@@ -3,17 +3,29 @@
 ## Part 1 : Debugging Scenario post on EdStem with student
 
 1.
-` ![Image](1.png) Hello TA! I am having this error in my code and not sure how to fix it? I think it could have something to do with what i am writing in my terminal or maybe i dont have the correct file in my direcorty? I was hoping if you can help me with this issue? I have provided the scrrenshots of my code, java file and bash script in my EdStem post, thank you!`
+![Image](.png) 
+`Hello TA! I am having this error in my code and not sure how to fix it? I think it could have something to do with what i am writing in my terminal or maybe i dont have the correct file in my direcorty? I was hoping if you can help me with this issue? I have provided the scrrenshots of my code, java file and bash script in my EdStem post, thank you!`
 
 2.
 `Thank you submitting your question about your code. after looking at the screenshots you have provided have you tried any of the commands that you suggested in your intial post? After trying the commands that you may think is cuasing the problem can you attach a picture/screenshot of what your getting if the problem is not fixed. If you have anymore questions please come back to this post :)`
 
 3.
-`![Image](1.png) Hi TA. I tried going over carefully in what i wrte in my terminal, i caught a misspelling when trying to run my code but still got an error so i checked to see if i had the correct file in my directoy but still and getting an error. I thought it it could have been a simple mistake that i overlooked but am more confused on what the propblem could be. Do you have any idea what the porpblem is?`
+![Image](.png) 
+`Hi TA. I tried going over carefully in what i wrte in my terminal, i checked to see if i had the correct file in my directoy and i did have it in the correct directory. I then looked back at the commands that i was typing and noticed i had a misspelling in one of my commands that i was trying to run. Since i type fast I had thought i had typed everything correctly but i know relized that most of my mistakes are from misspelling. Thank you TA!`
 
 4.
-``
-
+File & Directory Structure
+    ![Image](.png)
+    
+Before Fixing : Contents of each File 
+    ![Image](.png)
+    
+Full Command lines to trigger bug
+    ![Image](.png)
+    
+Description : edit that fixed the bug
+    ![Image](.png)
+    
 
 ## Part 2 : Reflection and Thoughts
 
