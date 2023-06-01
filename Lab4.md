@@ -51,5 +51,7 @@ local $ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runn
 
 9. Finally, using commit and push it will result in the change to the Github account.                                   
 (was having issues with this during lab and also after lab)
+(am still unable to do git commit and push using SSH and HTTPS)
+(reverted my Lab report 4 from SSH to HTTPS back to SSH)
 
 
