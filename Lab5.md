@@ -42,10 +42,44 @@ File & Directory Structure
     ![Image](d3-1.png)
     
 Before Fixing : Contents of each File 
-    ![Image](d4.png)
+    ![Image](f1.png)
+    ![Image](f2.png)
+    ![Image](f3.png)
+    ![Image](f4.png)
+    ![Image](f5.png)
+    ![Image](f6.png)
+    ![Image](f7.png)
+    ![Image](f8.png)
+    ![Image](f9.png)
+    ![Image](f10.png)
     
 Full Command lines to trigger bug
-    ![Image](d5.png)
+    
+![Image](d4.png) 
+    
+    
+```
+[cs15lsp23av@ieng6-203]:~:173$ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+[cs15lsp23av@ieng6-203]:~:174$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
+Error: Could not find or load main class org.junit.runner.JUnitCore
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JUnitCore
+[cs15lsp23av@ieng6-203]:~:175$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests.java
+Error: Could not find or load main class org.junit.runner.JUnitCore
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JUnitCore
+[cs15lsp23av@ieng6-203]:~:176$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
+Error: Could not find or load main class org.junit.runner.JUnitCore
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JUnitCore
+[cs15lsp23av@ieng6-203]:~:177$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JunitCore ArrayTests
+Error: Could not find or load main class org.junit.runner.JunitCore
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JunitCore
+[cs15lsp23av@ieng6-203]:~:178$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JunitCore ArrayTests.class
+Error: Could not find or load main class org.junit.runner.JunitCore
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JunitCore
+[cs15lsp23av@ieng6-203]:~:179$ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JunitCore ArrayTests.java 
+Error: Could not find or load main class org.junit.runner.JunitCore
+Caused by: java.lang.ClassNotFoundException: org.junit.runner.JunitCore
+[cs15lsp23av@ieng6-203]:~:180$ client_loop: send disconnect: Broken pipe
+```
     
 Description : edit that fixed the bug
     ![Image](d6.png)
