@@ -18,9 +18,9 @@ Thank you submitting your question about your code. After looking at the
 screenshots you have provided look at your javac command in your temrinal
 carefully? Check that you are compiling the correct file and look at the
 type of file it is. You may have been typing it correctly but adding 
-unneeded information could be the reason whyit not able to compile properly. 
-Also make sure you are in bash script when inputting the commands in your 
-terminal. If you have anymore questions please come back to this post :)
+unneeded information could be the reason why it not able to compile properly. 
+Also make sure you are in the correct terminal whether you think it is bash 
+or not. If you have anymore questions please come back to this post :)
 ```
 -----------------------------------------------------------------------------------------------------------------
 
