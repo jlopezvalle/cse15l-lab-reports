@@ -3,7 +3,7 @@
 ## Part 1 : Debugging Scenario post on EdStem with student
 
 1.
-![Image](.png) 
+![Image](d1.png) 
 ```
 Hello TA! I am having this error in my code and not sure how to fix it? 
 I think it could have something to do with what i am writing in my terminal
@@ -14,16 +14,17 @@ my code, java file and bash script in my EdStem post, thank you!
 
 2.
 ```
-Thank you submitting your question about your code. after looking at the 
+Thank you submitting your question about your code. After looking at the 
 screenshots you have provided look at your javac command in your temrinal
 carefully? Check that you are compiling the correct file and look at the
 type of file it is. You may have been typing it correctly but adding 
 unneeded information could be the reason whyit not able to compile properly. 
-If you have anymore questions please come back to this post :)
+Also make sure you are in bash script when inputting the commands in your 
+terminal. If you have anymore questions please come back to this post :)
 ```
 
 3.
-![Image](.png) 
+![Image](d2.png) 
 ```
 Hi TA. I tried going over carefully in what i wrte in my terminal, i checked
 to see if i was compiling the correct file. It turns out i was using the 
@@ -37,17 +38,17 @@ misspelling. Thank you TA!
 
 4.
 File & Directory Structure
-    ![Image](.png)
+    ![Image](d3.png)
     
 Before Fixing : Contents of each File 
-    ![Image](.png)
+    ![Image](d4.png)
     
 Full Command lines to trigger bug
-    ![Image](.png)
+    ![Image](d5.png)
     
 Description : edit that fixed the bug
-    ![Image](.png)
-    Made sure spelling error was corrected from `` to ``. Also not using `.class` or `.java` after ArrayTest within the javac command.
+    ![Image](d6.png)
+    Made sure spelling error was corrected from `JunitCore` to `JUnitCore`. Also not using `.class` or `.java` after ArrayTest within the javac command.
     
 
 ## Part 2 : Reflection and Thoughts
