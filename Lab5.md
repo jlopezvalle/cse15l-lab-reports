@@ -83,7 +83,7 @@ Caused by: java.lang.ClassNotFoundException: org.junit.runner.JunitCore
     
 Description : edit that fixed the bug
     ![Image](d6.png)
-    Made sure spelling error was corrected from `JunitCore` to `JUnitCore`. Also not using `.class` or `.java` after ArrayTest within the javac command.
+    Made sure spelling error was corrected from `JunitCore` to `JUnitCore`. Also not using `.class` or `.java` after ArrayTest within the `javac` command.
     
 
 ## Part 2 : Reflection and Thoughts
