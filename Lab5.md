@@ -6,31 +6,33 @@
 ![Image](.png) 
 ```
 Hello TA! I am having this error in my code and not sure how to fix it? 
-I think it could have something to do with what i am writing in my terminal 
-or maybe i dont have the correct file in my direcorty? I was hoping if you 
-can help me with this issue? I have provided the scrrenshots of my code, 
-java file and bash script in my EdStem post, thank you!
+I think it could have something to do with what i am writing in my terminal
+but im certain that i am typing everything correclty, i think? I was hoping
+if you can help me with this issue? I have provided the scrrenshots of 
+my code, java file and bash script in my EdStem post, thank you!
 ```
 
 2.
 ```
 Thank you submitting your question about your code. after looking at the 
-screenshots you have provided have you tried any of the commands that you
-suggested in your intial post? After trying the commands that you may 
-think is cuasing the problem can you attach a picture/screenshot of what 
-your getting if the problem is not fixed. If you have anymore questions 
-please come back to this post :)
+screenshots you have provided look at your javac command in your temrinal
+carefully? Check that you are compiling the correct file and look at the
+type of file it is. You may have been typing it correctly but adding 
+unneeded information could be the reason whyit not able to compile properly. 
+If you have anymore questions please come back to this post :)
 ```
 
 3.
 ![Image](.png) 
 ```
 Hi TA. I tried going over carefully in what i wrte in my terminal, i checked
-to see if i had the correct file in my directoy and i did have it in the 
-correct directory. I then looked back at the commands that i was typing and 
-noticed i had a misspelling in one of my commands that i was trying to run. 
-Since i type fast I had thought i had typed everything correctly but i know 
-relized that most of my mistakes are from misspelling. Thank you TA!
+to see if i was compiling the correct file. It turns out i was using the 
+correct file but kept typing it as ArrayTest.class or ArrayTest.java. I tried
+removing the ending part by leaving it as ArrayTest and it finally worked. I 
+also noticed i had a misspelling error in my javac command so after i fixed 
+those errors everthing worked now! Since i type fast I had thought i had typed
+everything correctly but i know relized that most of my mistakes are from 
+misspelling. Thank you TA!
 ```
 
 4.
@@ -45,6 +47,7 @@ Full Command lines to trigger bug
     
 Description : edit that fixed the bug
     ![Image](.png)
+    Made sure spelling error was corrected from `` to ``. Also not using `.class` or `.java` after ArrayTest within the javac command.
     
 
 ## Part 2 : Reflection and Thoughts
