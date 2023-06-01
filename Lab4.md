@@ -47,6 +47,7 @@ local $ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 local $ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests
 ```
 ![Image](nw1.png)
+![Image](nw2.png)
 
 9. Finally, using commit and push it will result in the change to the Github account.                                   
 (was having issues with this during lab and also after lab)
