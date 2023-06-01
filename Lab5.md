@@ -2,7 +2,7 @@
 
 ## Part 1 : Debugging Scenario post on EdStem with student
 
-1.
+-----------------------------------------------------------------------------------------------------------------
 ![Image](d1.png) 
 ```
 Hello TA! I am having this error in my code and not sure how to fix it? 
@@ -11,8 +11,8 @@ but im certain that i am typing everything correclty, i think? I was hoping
 if you can help me with this issue? I have provided the scrrenshots of 
 my code, java file and bash script in my EdStem post, thank you!
 ```
+-----------------------------------------------------------------------------------------------------------------
 
-2.
 ```
 Thank you submitting your question about your code. After looking at the 
 screenshots you have provided look at your javac command in your temrinal
@@ -22,8 +22,8 @@ unneeded information could be the reason whyit not able to compile properly.
 Also make sure you are in bash script when inputting the commands in your 
 terminal. If you have anymore questions please come back to this post :)
 ```
+-----------------------------------------------------------------------------------------------------------------
 
-3.
 ![Image](d2.png) 
 ```
 Hi TA. I tried going over carefully in what i wrte in my terminal, i checked
@@ -35,8 +35,8 @@ those errors everthing worked now! Since i type fast I had thought i had typed
 everything correctly but i know relized that most of my mistakes are from 
 misspelling. Thank you TA!
 ```
+-----------------------------------------------------------------------------------------------------------------
 
-4.
 File & Directory Structure
     ![Image](d3.png)
     ![Image](d3-1.png)
