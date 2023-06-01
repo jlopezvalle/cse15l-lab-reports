@@ -39,6 +39,7 @@ misspelling. Thank you TA!
 4.
 File & Directory Structure
     ![Image](d3.png)
+    ![Image](d3-1.png)
     
 Before Fixing : Contents of each File 
     ![Image](d4.png)
