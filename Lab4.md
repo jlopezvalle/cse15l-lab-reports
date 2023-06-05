@@ -56,9 +56,11 @@ local $ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runn
   local $ git push origin main
   ```
    ![Image](nw3.png)
-  (transition to using `git clone` to then `SSH URL` back to `git clone` as i was still having trouble)
-  (please note that i did include a screenshot of trying the command and writing out my command)
-  (please consider giving me 3/3 as i only have one 1/3 to get an A in the course, PLEASE! `:(`)
+ (transition to using `git clone` to then `SSH URL` back to `git clone` as i was still having trouble)
+  
+ (please note that i did include a screenshot of trying the command and writing out my command)
+  
+ (please consider giving me 3/3 as i only have one 1/3 to get an A in the course, PLEASE! `:(`)
   
 
 
