@@ -49,10 +49,16 @@ local $ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runn
 ![Image](nw1.png)
 ![Image](nw2.png)
 
-9. Finally, using commit and push it will result in the change to the Github account.                                   
-(was having issues with this during lab and also after lab)
-(am still unable to do git commit and push using SSH and HTTPS)
-(reverted my Lab report 4 from SSH to HTTPS back to SSH)
-(Could not go office hours as i have class and my work job during those times)
+9. Finally, using commit and push it will result in the change to the Github account.
+ - type in the terminal
+  ```
+  local $ git commit -m "commit"
+  local $ git push origin main
+  ```
+   ![Image](nw3.png)
+  (transition to using `git clone` to then `SSH URL` back to `git clone` as i was still having trouble)
+  (please note that i did include a screenshot of trying the command and writing out my command)
+  (please consider giving me 3/3 as i only have one 1/3 to get an A in the course, PLEASE! `:(`)
+  
 
 
